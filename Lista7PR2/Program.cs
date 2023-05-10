@@ -18,6 +18,7 @@ namespace Lista7PR2
 
             while (x != 0)
             {
+
                 Console.WriteLine("****MENU****");
                 Console.WriteLine("1- Exercício 1");
                 Console.WriteLine("2- Exercício 2");
